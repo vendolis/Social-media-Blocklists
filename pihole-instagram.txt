@@ -60,3 +60,4 @@
 0.0.0.0 telegraph-ash.instagram.com
 0.0.0.0 white.ish.instagram.com
 0.0.0.0 www.instagram.com
+0.0.0.0 cdninstagram.com

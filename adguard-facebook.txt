@@ -1,6 +1,6 @@
-# This blocklist helps Pi-hole's admin restrict access to Facebook and its domains.
+# This blocklist helps Adguard admin restrict access to Facebook and its domains.
 # Curated from my own log and some more sources online.
-# Last updated: 3rd October 2017
+# Last updated: 9 december 2019
 
 ||apps.facebook.com
 ||connect.facebook.net
@@ -816,3 +816,16 @@
 ||fb.com
 ||newsroom.fb.com
 ||investor.fb.com
+||scontent-amt2-1.xx.fbcdn.net
+||lithium.facebook.com
+||lookaside.facebook.com
+||mqtt-mini.facebook.com
+||external-ams3-1.xx.fbcdn.net
+||facebook.net
+||facebook.com.edgesuite.net
+||facebook.com.edgekey.net
+||tfbnw.net
+||facebook.net.edgekey.net
+||fbsbx.com.online-metrix.net
+||ru-ru.facebook.com
+||nl-nl.facebook.com
