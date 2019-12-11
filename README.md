@@ -1,5 +1,5 @@
-# pihole-facebook
-Facebook DNS Blocklist for Pihole/AdGuard.
+# Social media - Blocklists
+Social media DNS Blocklists for Pihole/AdGuard.
 
 ## Usage
 
