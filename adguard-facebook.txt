@@ -1,5 +1,5 @@
 # This blocklist helps Adguard admin restrict access to Facebook and its domains.
-# Curated from my own log and some more sources online.
+# Curated from sources online.
 # Last updated: 9 december 2019
 
 ||apps.facebook.com
