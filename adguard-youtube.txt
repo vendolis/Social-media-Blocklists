@@ -2,6 +2,7 @@
 # Curated from sources online.     https://github.com/mcintosh109/Pi-Hole_my_blocklist
 # Last updated: 11 december 2019
 
+||www.youtube.com
 ||r3---sn-o097znlk.googlevideo.com
 ||r5---sn-n4v7knlk.googlevideo.com
 ||r5---sn-n4v7sn7y.googlevideo.com
