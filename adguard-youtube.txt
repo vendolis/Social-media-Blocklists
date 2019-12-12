@@ -205,8 +205,8 @@
 ||r1---sn--8vq54vox2u-v2vz.googlevideo.com
 ||r7---sn--uxanug5-coxz.googlevideo.com
 ||r5---sn--oguesnzz.googlevideo.com
-||r1---sn--ug5on-unxl.googlevidr1---sn-n4v7knlk.googlevideo.com
-||eo.com
+||r1---sn--ug5on-unxl.googlevideo.com
+||r1---sn-n4v7knlk.googlevideo.com
 ||r1---sn-n4v7sn76.googlevideo.com
 ||r1---sn-o097znlk.googlevideo.com
 ||r2---sn-q4f7sn7z.googlevideo.com
