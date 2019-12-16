@@ -19,4 +19,6 @@ Social media DNS Blocklists for Pihole/AdGuard.
 5. Copy this URL: `https://github.com/gieljnssns/Block_facebook_dns/raw/master/adguard-facebook.txt`
 6. Paste the URL in the Edit box and click on `Add filter`
 
+https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters#example-blocking-by-domain-name
+
 You're done. 
