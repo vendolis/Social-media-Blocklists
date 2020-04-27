@@ -39,3 +39,9 @@ v16-tiktokcdn-com.akamaized.net
 34.196.79.125
 47.252.102.198
 161.117.70.68
+musical.ly
+muscdn.com
+akamaiedge.net
+akamai.net
+isnssdk.com
+fastly.net
