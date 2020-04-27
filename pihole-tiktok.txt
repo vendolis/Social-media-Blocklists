@@ -41,7 +41,5 @@ v16-tiktokcdn-com.akamaized.net
 161.117.70.68
 musical.ly
 muscdn.com
-akamaiedge.net
 akamai.net
 isnssdk.com
-fastly.net
