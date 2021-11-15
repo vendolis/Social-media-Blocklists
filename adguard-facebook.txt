@@ -829,3 +829,5 @@
 ||fbsbx.com.online-metrix.net
 ||ru-ru.facebook.com
 ||nl-nl.facebook.com
+||fb.watch^
+||facebookcorewwwi.onion^
