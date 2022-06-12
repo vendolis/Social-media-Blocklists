@@ -44,3 +44,4 @@
 ||akamai.net
 ||isnssdk.com
 ||musemuse.cn
+||tiktokcdn-us.com
