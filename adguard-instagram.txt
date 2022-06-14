@@ -65,3 +65,6 @@
 ||white.ish.instagram.com
 ||www.instagram.com
 ||cdninstagram.com
+||graph.instagram.com
+||edge-mqtt.facebook.com
+||i.instagram.com
