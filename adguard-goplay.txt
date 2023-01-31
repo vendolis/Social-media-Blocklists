@@ -1,0 +1,17 @@
+||pubads.g.doubleclick.net
+||*.theoplayer.com
+||wp-a700000000000000.id.cdn1.prd.telenet-ops.be
+||*.viervijfzes.be
+||*.goplay.be
+||*.googlevideo.com
+#||s0.2mdn.net
+#||imasdk.googleapis.com
+#||csi.gstatic.com
+||*.gvt1.com
+#||e35058.api13.akamaiedge.net
+#||www.googletagmanager.com
+#||d1qpbge2wdupjz.cloudfront.net
+#||www.googletagservices.com
+#||cognito-identity.eu-west-1.amazonaws.com
+#||fonts.gstatic.com
+||stream1-vod.cdn1.sbs.prd.telenet-ops.be
