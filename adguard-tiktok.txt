@@ -41,7 +41,6 @@
 ||161.117.70.68
 ||musical.ly
 ||muscdn.com
-||akamai.net
 ||isnssdk.com
 ||musemuse.cn
 ||tiktokcdn-us.com
