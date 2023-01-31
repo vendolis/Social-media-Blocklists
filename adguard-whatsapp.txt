@@ -1,12 +1,11 @@
 # Blocklist for Whatsapp
-
-||whatsapp.com^
-||www.whatsapp.com^
-||web.whatsapp.com^
 # This blocklist helps Adguard admin restrict access to whatsapp and its domains.
 # Curated from sources online.
 # Last updated: 9 december 2019
 
+||whatsapp.com^
+||www.whatsapp.com^
+||web.whatsapp.com^
 ||w1.web.whatsapp.com^
 ||w2.web.whatsapp.com^
 ||w3.web.whatsapp.com^
