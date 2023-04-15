@@ -47,4 +47,3 @@
 ||search16-normal-c-useast1a.tiktokv.com^
 ||a1838.dscw154.akamai.net^
 ||e673.dscx.akamaiedge.net^
-||apps.mzstatic.com^
