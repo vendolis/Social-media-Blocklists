@@ -1,8 +1,9 @@
 # This blocklist helps Pi-Hole admin restrict access to youtube and its domains.
 # Curated from sources online.     https://github.com/mcintosh109/Pi-Hole_my_blocklist
-# Last updated: 11 december 2019
+# Last updated: Aug 14 2019
 
 youtube.com
+www.youtube.com
 googlevideo.com
 r3---sn-o097znlk.googlevideo.com
 r5---sn-n4v7knlk.googlevideo.com
