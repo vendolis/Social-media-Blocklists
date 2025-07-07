@@ -5,6 +5,10 @@
 youtube.com
 www.youtube.com
 googlevideo.com
+ytimg.com
+i.ytimg.com
+youtubei.googleapis.com
+youtube-nocookie.com
 r3---sn-o097znlk.googlevideo.com
 r5---sn-n4v7knlk.googlevideo.com
 r5---sn-n4v7sn7y.googlevideo.com
